@@ -1,15 +1,38 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+source_heading,Source Heading,true
+identifier,Accession Number,
+article_identifier, Article Identifier,
+title,Issue/Article Title,
+creator,Article Author,true,
+publisher,Issue Publisher,true,
+periodical_name,Periodical Name,true
+periodical_type, Periodical Type,true,
+volume, Volume No.,
+month, Month,
+issue_number,Issue No., 
+date, Year Published,
+contents,Issue Contents,
+pages, Pages,
+record_level, Record Level,true,
+source, Source Collection,true,
+nature1_heading,Article Type,true,
+nature2_heading,Article Contents,true,
+abstract,Abstract,
+language,Language,
+biographical_heading, Biographical Heading,true,,
+corporate_name_heading,Corporate Name Heading,true,,
+film_description_heading, Film Description Heading,true
+TV_description_heading,TV Description Heading,true
+subject,Subject Headings,true
+indexing_history, Indexing History,
+citation1cmos,Cite this issue/article using CMOS 18th ed (Notes-Bibliography),
+citation2apa,Cite this issue/article using APA 7th ed,
+citation3mla,Cite this issue/article using MLA,
+link,Link to Issue,,true
 type,Type,
 format,Format,
-rights,Rights,
+availability, Accessible via external online repository?,
+copies, Number of Issues Available,
+link_external,External Link,,true
+access_conditions,Access Retrictions,
 rightsstatement,Rights Statement,,true
